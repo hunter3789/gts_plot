@@ -7,4 +7,4 @@
 - Provide Observation Station Skew-T Diagram
 - Comparison Observation to Numerical Weather Prediction (Provide Bias and Plot of Contours)
 
-[Demo Image] (https://hunter3789.github.io/gts_plot/image/demo_image1.png)
+[Demo image] (https://hunter3789.github.io/gts_plot/image/demo_image1.png)
